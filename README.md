@@ -1,0 +1,1 @@
+# spfx-assets-list-instance
