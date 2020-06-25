@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ListInstance 
+        FeatureId="9ad4c2d4-443b-4a94-8534-49a23f20ba3c" 
+        Url="Lists/spfxHolidays"
+        TemplateType="421" 
+        Title="spfxHolidays" >
+    </ListInstance>
+</Elements>

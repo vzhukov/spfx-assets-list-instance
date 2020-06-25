@@ -1,0 +1,33 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-assets-list-instance-client-side-solution",
+    "id": "0b71bd29-c1bc-429d-8c9a-8c9e3775b9fe",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false,
+    "features": [
+      {
+        "title": "List Instance Demo Feature",
+        "description": "blog.vitalyzhukov.ru",
+        "id": "2ea1bd20-091e-4024-9b72-f084bdc72bda",
+        "version": "1.0.0.0",
+        "assets": {
+          "elementManifests": [
+            "CustomList.xml",
+            "DocumentLibrary.xml",
+            "Holidays.xml",
+            "PictureLibrary.xml",
+            "WikiPageLibrary.xml"
+          ],
+          "elementFiles": [
+            "WikiPageLibrarySchema.xml"
+          ]
+        }
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-assets-list-instance.sppkg"
+  }
+}

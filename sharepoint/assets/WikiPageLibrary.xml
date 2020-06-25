@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ListInstance 
+        CustomSchema="WikiPageLibrarySchema.xml"
+        FeatureId="00bfea71-c796-4402-9f2f-0eb9a6e71b18" 
+        Url="spfxWikiPageLibrary"
+        TemplateType="119" 
+        Title="spfxWikiPageLibrary" >
+    </ListInstance>
+</Elements>
